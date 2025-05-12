@@ -1,2 +1,2 @@
 # iasa-big-data-analytics
-Labs for the Big Data Analytics course
+Labs for the IASA Big Data Analytics course.
